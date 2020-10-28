@@ -1,6 +1,6 @@
 #Author : Umar Qureshi
 #Leetcode's Shuffle the Array Python3 Solution
-# Problem Link : https://leetcode.com/problems/shuffle-the-array/submissions/
+# Problem Link : https://leetcode.com/problems/shuffle-the-array/
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
         listi = []
